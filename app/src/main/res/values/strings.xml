@@ -6,4 +6,5 @@
     <string name="cd_share_icon">Share Icon</string>
     <string name="cd_favorite_icon">Favorite Icon</string>
     <string name="bt_open_link">Open Link</string>
+    <string name="error_text">Network Error</string>
 </resources>
